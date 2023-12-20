@@ -1,4 +1,32 @@
-# Guia de Git
+# Flow Git e Github na prática
+sejam bem vindos a mais um flow de aprendizado, eu sou a Rafael Rampasso e hoje eu vou mostrar pra vocês como utilizar o GIT na prática
+
+## Instalando o GIT
+
+* [Link com os downloads](https://git-scm.com/downloads)
+
+## Criar um projeto novo
+
+* Criar uma nova pasta em seu computador, com o nome `Flow Git`
+
+* Abrir o VSCode nessa pasta
+
+* Criar um novo arquivo `README.md`
+
+* Escrever dentro dele `Você aprenderá alguns comandos do Git`
+
+* Salva o arquivo
+
+Agora então é hora de usarmos o Git
+
+* Abre o Git Bash que foi instalado na máquina (pode ser pelo terminal do VSCode mesmo)
+
+* `git init` para inicializar o repositório
+
+Foi criada uma pasta `.git` e é ali que toda a mágica acontece, então não apague
+
+* `git add README.md` para colocar o arquivo na área de stagging 
+![Source](img/staging.gif)
 
 ## Configurações Globais
 
